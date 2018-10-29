@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"section_name":"crm_report","section_title":"CRM Report","section_view":"accordion","section_size":"default","section_fields":{"rname":{"field":"rname","label":"Report Name","type":"text","type_options":{"size":"210","width":"300","height":"100","thumbnail":"mini"},"validation":"notEmpty"},"main_module":{"field":"main_module","label":"Main Module","type":"select","type_options":{"size":"210","width":"300","height":"100","thumbnail":"mini"},"validation":"","db_options":{"table":"crud_components","key":"id","value":"component_name"},"list_choose":"database"}}}

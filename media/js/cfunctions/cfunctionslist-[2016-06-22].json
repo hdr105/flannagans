@@ -1,0 +1,50 @@
+{
+    "functions": {
+        "0": [
+			{
+				"name": "Create Client",
+				"value": "autocreateClient"
+			}
+		],
+		
+		"1": [
+			{
+				"name": "Set Legal Entity",
+				"value": "legalEntityVal"
+			}
+		
+		],
+		
+		"2": [
+			{
+				"name": "Insert Empty Records",
+				"value": "relatedTablesEntry"
+			}
+		
+		],
+
+		"3": [
+			{
+				"name": "View Employees",
+				"value": "viewEmployeesList"
+			}
+		
+		],
+
+		"4": [
+			{
+				"name": "Set CompID",
+				"value": "setCompID"
+			}
+		
+		],
+
+		"5": [
+			{
+				"name": "Set Currency Default",
+				"value": "setCurrencyDefault"
+			}
+		
+		]
+    }
+}

@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"section_name":"working_hours_history","section_title":"Working Hours History","section_view":"accordion","section_size":"default","section_fields":{"dated":{"field":"dated","label":"dated","type":"text","type_options":{"size":"100%","width":"300","height":"100","thumbnail":"mini"},"validation":""},"user_id":{"field":"user_id","label":"user_id","type":"text","type_options":{"size":"100%","width":"300","height":"100","thumbnail":"mini"},"validation":""}}}

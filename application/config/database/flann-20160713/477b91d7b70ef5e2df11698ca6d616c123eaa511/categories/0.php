@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"section_name":"cats","section_title":"Cats","section_view":"outer","section_size":"undefined","section_fields":{"category_name":{"field":"category_name","label":"Category Name","type":"text","type_options":{"size":"210","width":"300","height":"100","thumbnail":"mini"},"validation":""},"category_description":{"field":"category_description","label":"Description","type":"text","type_options":{"size":"210","width":"300","height":"100","thumbnail":"mini"},"validation":""}}}

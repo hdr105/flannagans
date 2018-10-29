@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"section_name":"description","section_title":"Description","section_view":"accordion","section_size":"full","section_fields":{"description":{"field":"description","label":"","type":"textarea","type_options":{"size":"100%","width":"300","height":"100","thumbnail":"mini"},"validation":""}}}

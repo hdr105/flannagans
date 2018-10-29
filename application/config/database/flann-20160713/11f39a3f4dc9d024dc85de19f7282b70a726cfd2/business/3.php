@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"section_name":"partnership_or_directors","section_title":"Partnership or Directors","section_view":"accordion","section_size":"default","section_fields":{"contact":{"field":"contact","label":"Contact","type":"related_module","options":{"id":"48"},"type_options":{"size":"100%","width":"300","height":"100","thumbnail":"mini"},"validation":""},"ni_number":{"field":"ni_number","label":"Company Number","type":"text","type_options":{"size":"100%","width":"300","height":"100","thumbnail":"mini"},"validation":""}}}

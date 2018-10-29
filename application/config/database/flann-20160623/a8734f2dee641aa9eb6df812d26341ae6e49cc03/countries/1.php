@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"section_name":"block_field","section_title":"Block Field","section_view":"outer","section_size":"undefined","section_fields":{"countryName":{"field":"countryName","label":"countryName","type":"text","type_options":{"size":"210","width":"300","height":"100","thumbnail":"mini"},"validation":""},"countryCode":{"field":"countryCode","label":"countryCode","type":"text","type_options":{"size":"210","width":"300","height":"100","thumbnail":"mini"},"validation":""}}}

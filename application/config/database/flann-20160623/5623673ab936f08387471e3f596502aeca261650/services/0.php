@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"section_name":"services","section_title":"Services","section_view":"accordion","section_size":"full","section_fields":{"Servi":{"field":"Servi","label":"Service(s)","type":"checkbox","type_options":{"size":"100%","width":"300","height":"100","thumbnail":"mini"},"validation":"notEmpty","values":["1","2","3","4","5"],"options":["Accounts","Annual Return","VAT","Tax","Payroll"],"events":"onclick","events_action":"toggleAccordian(this.value);"}}}

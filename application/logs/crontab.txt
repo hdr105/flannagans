@@ -1,0 +1,1 @@
+ * * * * * php http://www.flannagans.co.uk/crmtest/admin/scrud/status?cfun=setCronJob

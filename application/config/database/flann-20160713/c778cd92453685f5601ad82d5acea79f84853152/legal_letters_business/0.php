@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"section_name":"legal_letters","section_title":"Legal Letters","section_view":"accordion","section_size":"default","section_fields":{"letters":{"field":"letters","label":" ","type":"related_module","type_options":{"size":"100%","width":"300","height":"100","thumbnail":"mini"},"validation":"","options":{"id":"75"}}}}
